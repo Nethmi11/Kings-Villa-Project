@@ -1,10 +1,10 @@
 import React from "react";
-import Map2 from "./components/Map/Map2";
-import Footer from "./components/Footer/Footer";
-import First_Page from "./components/First_Page/First_Page";
-import TestimonialCarousel from './components/Reviews/TestimonialCarousel.js';
-import RoomCategories from "./components/RoomCategories/Roomcategories";
-import CheckIn from "./components/Check-in_Check-out/checkIn";
+import Map2 from "./Components/Map/Map2";
+import Footer from "./Components/Footer/Footer";
+import First_Page from "./Components/First_Page/First_Page";
+import TestimonialCarousel from './Components/Reviews/TestimonialCarousel.js';
+import RoomCategories from "./Components/RoomCategories/Roomcategories";
+import CheckIn from "./Components/Check-in_Check-out/checkIn";
 
 
 
